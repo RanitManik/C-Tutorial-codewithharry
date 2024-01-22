@@ -36,6 +36,12 @@ Welcome to the C Programming Tutorial by CodeWithHarry! This repository is a com
 | Project 2                      | Snake, Water, Gun                   |   ✔   |
 | Chapter 11                    | Dynamic Memory Allocation           |   ✔   |
 
+<style>
+  table {
+    width: 100%;
+  }
+</style>
+
 ## Getting Started
 
 To explore the tutorials, follow these steps:
