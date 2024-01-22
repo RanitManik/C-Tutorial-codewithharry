@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
     int a = 100;
     printf("The address of the given variable is: %u\n", &a);
     int *ptr = &a;
