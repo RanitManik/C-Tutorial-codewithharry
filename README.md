@@ -12,7 +12,6 @@
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
-# C Programming Tutorial by CodeWithHarry
 
 Welcome to the C Programming Tutorial by CodeWithHarry! This repository is a comprehensive guide and resource for learning C programming from Harry sir. Dive into the world of C with detailed chapters, practice sets, and exciting projects. Let's embark on a journey through the fundamentals of C programming!
 
