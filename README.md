@@ -4,6 +4,10 @@
   <h1> C Programming Tutorial by CodeWithHarry</h1>
 </div>
 
+
+Welcome to the C Programming Tutorial by CodeWithHarry! This repository is a comprehensive guide and resource for learning C programming from Harry sir. Dive into the world of C with detailed chapters, practice sets, and exciting projects. Let's embark on a journey through the fundamentals of C programming!
+
+
 ## Table of Contents
 
 - [Course Contents & Agenda](#course-contents--agenda)
@@ -12,8 +16,6 @@
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
-
-Welcome to the C Programming Tutorial by CodeWithHarry! This repository is a comprehensive guide and resource for learning C programming from Harry sir. Dive into the world of C with detailed chapters, practice sets, and exciting projects. Let's embark on a journey through the fundamentals of C programming!
 
 ## Course Contents & Agenda
 
