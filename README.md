@@ -10,7 +10,8 @@ Welcome to the C Programming Tutorial by CodeWithHarry! This repository is a com
 
 ## Table of Contents
 
-- [Course Contents & Agenda](#course-contents--agenda)
+- [Table of Contents](#table-of-contents)
+- [Course Contents \& Agenda](#course-contents--agenda)
 - [Getting Started](#getting-started)
 - [Project Highlights](#project-highlights)
 - [Contact](#contact)
@@ -19,101 +20,21 @@ Welcome to the C Programming Tutorial by CodeWithHarry! This repository is a com
 
 ## Course Contents & Agenda
 
-- **Chapter 1 - Variables, Constants & Keywords:**
-  - Duration: 00:22:30
-  - Status: Done
-
-- **Chapter 1 - Practice Set:**
-  - Duration: 01:12:11
-  - Status: Done
-
-- **Chapter 2 - Instructions & Operators:**
-  - Duration: 01:32:04
-  - Status: Done
-
-- **Chapter 2 - Practice Set:**
-  - Duration: 02:14:49
-  - Status: Done
-
-- **Chapter 3 - Conditional Instructions:**
-  - Duration: 02:34:52
-  - Status: Done
-
-- **Chapter 3 - Practice Set:**
-  - Duration: 03:24:05
-  - Status: Done
-
-- **Chapter 4 - Loop Control Instructions:**
-  - Duration: 03:55:18
-  - Status: Done
-
-- **Chapter 4 - Practice Set:**
-  - Duration: 04:58:28
-  - Status: Done
-
-- **Project 1 - Guess The Number:**
-  - Duration: 05:24:21
-  - Status: Done
-
-- **Chapter 5 - Functions & Recursions:**
-  - Duration: 05:39:18
-  - Status: Done
-
-- **Chapter 5 - Practice Set:**
-  - Duration: 06:36:56
-  - Status: Done
-
-- **Chapter 6 - Pointers:**
-  - Duration: 07:06:55
-  - Status: Done
-
-- **Chapter 6 - Practice Set:**
-  - Duration: 08:00:24
-  - Status: Done
-
-- **Chapter 7 - Arrays:**
-  - Duration: 08:26:39
-  - Status: Done
-
-- **Chapter 7 - Practice Set:**
-  - Duration: 09:40:00
-  - Status: Done
-
-- **Chapter 8 - Strings:**
-  - Duration: 10:14:34
-  - Status: Done
-
-- **Chapter 8 - Practice Set:**
-  - Duration: 10:54:46
-  - Status: Done
-
-- **Chapter 9 - Structures:**
-  - Duration: 11:29:41
-  - Status: Done
-
-- **Chapter 9 - Practice Set:**
-  - Duration: 12:23:45
-  - Status: Done
-
-- **Chapter 10 - File I/O:**
-  - Duration: 12:53:15
-  - Status: Done
-
-- **Chapter 10 - Practice Set:**
-  - Duration: 13:45:17
-  - Status: Done
-
-- **Project 2 - Snake, Water, Gun:**
-  - Duration: 14:00:23
-  - Status: Done
-
-- **Chapter 11 - Dynamic Memory Allocation:**
-  - Duration: 14:21:49
-  - Status: Done
-
-- **Chapter 11 - Practice Set:**
-  - Duration: 14:59:42
-  - Status: Done
+| Chapter                       | Topic                              | Status  |
+|-------------------------------|------------------------------------|---------|
+| Chapter 1                     | Variables, Constants & Keywords    |   ✔   |
+| Chapter 2                     | Instructions & Operators           |   ✔   |
+| Chapter 3                     | Conditional Instructions           |   ✔   |
+| Chapter 4                     | Loop Control Instructions          |   ✔   |
+| Project 1                      | Guess The Number                   |   ✔   |
+| Chapter 5                     | Functions & Recursions              |   ✔   |
+| Chapter 6                     | Pointers                            |   ✔   |
+| Chapter 7                     | Arrays                             |   ✔   |
+| Chapter 8                     | Strings                            |   ✔   |
+| Chapter 9                     | Structures                         |   ✔   |
+| Chapter 10                    | File I/O                           |   ✔   |
+| Project 2                      | Snake, Water, Gun                   |   ✔   |
+| Chapter 11                    | Dynamic Memory Allocation           |   ✔   |
 
 ## Getting Started
 
