@@ -20,22 +20,21 @@ Welcome to the C Programming Tutorial by CodeWithHarry! This repository is a com
 
 ## Course Contents & Agenda
 
-| Chapter                       | Topic                              | Status  |
-|-------------------------------|------------------------------------|---------|
-| Chapter 1                     | Variables, Constants & Keywords    |   ✔   |
-| Chapter 2                     | Instructions & Operators           |   ✔   |
-| Chapter 3                     | Conditional Instructions           |   ✔   |
-| Chapter 4                     | Loop Control Instructions          |   ✔   |
-| Project 1                      | Guess The Number                   |   ✔   |
-| Chapter 5                     | Functions & Recursions              |   ✔   |
-| Chapter 6                     | Pointers                            |   ✔   |
-| Chapter 7                     | Arrays                             |   ✔   |
-| Chapter 8                     | Strings                            |   ✔   |
-| Chapter 9                     | Structures                         |   ✔   |
-| Chapter 10                    | File I/O                           |   ✔   |
-| Project 2                      | Snake, Water, Gun                   |   ✔   |
-| Chapter 11                    | Dynamic Memory Allocation           |   ✔   |
-
+| Chapter     | Topic                               | Brief Description                                  | Status      |
+|-------------|-------------------------------------|-----------------------------------------------------|-------------|
+| Chapter 1   | Variables, Constants & Keywords    | Introduction to variables, constants, and keywords.  | Completed ✔ |
+| Chapter 2   | Instructions & Operators           | Understanding instructions and operators in C++.    | Completed ✔ |
+| Chapter 3   | Conditional Instructions           | Exploring conditional instructions in C++.          | Completed ✔ |
+| Chapter 4   | Loop Control Instructions          | Learning loop control instructions in C++.          | Completed ✔ |
+| Project 1    | Guess The Number                   | Implementation of a Guess The Number project.       | Completed ✔ |
+| Chapter 5   | Functions & Recursions              | Introduction to functions and recursive functions.  | Completed ✔ |
+| Chapter 6   | Pointers                            | Understanding pointers in C++.                     | Completed ✔ |
+| Chapter 7   | Arrays                             | Exploring arrays in C++.                            | Completed ✔ |
+| Chapter 8   | Strings                            | Working with strings in C++.                        | Completed ✔ |
+| Chapter 9   | Structures                         | Introduction to structures in C++.                  | Completed ✔ |
+| Chapter 10  | File I/O                           | File Input/Output operations in C++.               | Completed ✔ |
+| Project 2    | Snake, Water, Gun                   | Implementation of Snake, Water, Gun game.            | Completed ✔ |
+| Chapter 11  | Dynamic Memory Allocation           | Understanding dynamic memory allocation in C++.     | Completed ✔ |
 
 ## Getting Started
 
