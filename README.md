@@ -5,8 +5,9 @@
 </div>
 
 
-Welcome to the C Programming Tutorial by CodeWithHarry! This repository is a comprehensive guide and resource for learning C programming from Harry sir. Dive into the world of C with detailed chapters, practice sets, and exciting projects. Let's embark on a journey through the fundamentals of C programming!
-
+Welcome to the C Programming Tutorial by CodeWithHarry! This repository is a comprehensive guide and resource for
+learning C programming from Harry sir. Dive into the world of C with detailed chapters, practice sets, and exciting
+projects. Let's embark on a journey through the fundamentals of C programming!
 
 ## Table of Contents
 
@@ -17,24 +18,23 @@ Welcome to the C Programming Tutorial by CodeWithHarry! This repository is a com
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
-
 ## Course Contents & Agenda
 
-| Chapter    | Topic                           | Brief Description                                   | Status    |
-| ---------- | ------------------------------- | --------------------------------------------------- | --------- |
-| Chapter 1  | Variables, Constants & Keywords | Introduction to variables, constants, and keywords. | Completed |
-| Chapter 2  | Instructions & Operators        | Understanding instructions and operators in C.      | Completed |
-| Chapter 3  | Conditional Instructions        | Exploring conditional instructions in C.            | Completed |
-| Chapter 4  | Loop Control Instructions       | Learning loop control instructions in C.            | Completed |
-| Project 1  | Guess The Number                | Implementation of a Guess The Number project.       | Completed |
-| Chapter 5  | Functions & Recursions          | Introduction to functions and recursive functions.  | Completed |
-| Chapter 6  | Pointers                        | Understanding pointers in C.                        | Completed |
-| Chapter 7  | Arrays                          | Exploring arrays in C.                              | Completed |
-| Chapter 8  | Strings                         | Working with strings in C.                          | Completed |
-| Chapter 9  | Structures                      | Introduction to structures in C.                    | Completed |
-| Chapter 10 | File I/O                        | File Input/Output operations in C.                  | Completed |
-| Project 2  | Snake, Water, Gun               | Implementation of Snake, Water, Gun game.           | Completed |
-| Chapter 11 | Dynamic Memory Allocation       | Understanding dynamic memory allocation in C.       | Completed |
+| Chapter    | Topic                           | Brief Description                               | Status    |
+|------------|---------------------------------|-------------------------------------------------|-----------|
+| Chapter 1  | Variables, Constants & Keywords | Introduction to variables, constants, keywords. | Completed |
+| Chapter 2  | Instructions & Operators        | Understanding instructions and operators in C.  | Completed |
+| Chapter 3  | Conditional Instructions        | Exploring conditional instructions in C.        | Completed |
+| Chapter 4  | Loop Control Instructions       | Learning loop control instructions in C.        | Completed |
+| Project 1  | Guess The Number                | Implementation of a Guess The Number project.   | Completed |
+| Chapter 5  | Functions & Recursions          | Introduction to functions and Recursions.       | Completed |
+| Chapter 6  | Pointers                        | Understanding pointers in C.                    | Completed |
+| Chapter 7  | Arrays                          | Exploring arrays in C.                          | Completed |
+| Chapter 8  | Strings                         | Working with strings in C.                      | Completed |
+| Chapter 9  | Structures                      | Introduction to structures in C.                | Completed |
+| Chapter 10 | File I/O                        | File Input/Output operations in C.              | Completed |
+| Project 2  | Snake, Water, Gun               | Implementation of Snake, Water, Gun game.       | Completed |
+| Chapter 11 | Dynamic Memory Allocation       | Understanding dynamic memory allocation in C.   | Completed |
 
 ## Getting Started
 
@@ -63,10 +63,10 @@ To explore the tutorials, follow these steps:
 ## Project Highlights
 
 - **Project 1 - Guess The Number:**
-  - Implement a simple number guessing game.
+    - Implement a simple number guessing game.
 
 - **Project 2 - Snake, Water, Gun:**
-  - Create a classic game of Snake, Water, Gun.
+    - Create a classic game of Snake, Water, Gun.
 
 ## Contact
 
@@ -78,9 +78,9 @@ _Feel free to reach out for any queries or discussions:_
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="20" /> Facebook](https://www.facebook.com/RanitKumarManik/)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /> Twitter](https://twitter.com/RANIT_MANIK)
 
-
 ## Acknowledgments
 
-A special thanks to Harish sir (CodeWithHarry) for this enlightening C Programming course. Gratitude to the C programming community, online tutorials, and resources that have contributed to this learning journey.
+A special thanks to Harish sir (CodeWithHarry) for this enlightening C Programming course. Gratitude to the C
+programming community, online tutorials, and resources that have contributed to this learning journey.
 
 Happy coding!
