@@ -74,7 +74,7 @@ _Feel free to reach out for any queries or discussions:_
 
 <table>
   <tr>
-    <th>Logo</th>
+    <th></th>
     <th>Social Media</th>
     <th>Username</th>
     <th>Link</th>
