@@ -1,0 +1,1 @@
+of course Array as array can hold the same data type in contiguous memory and easy to accessible
