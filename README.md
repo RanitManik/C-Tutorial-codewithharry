@@ -22,18 +22,18 @@ projects. Let's embark on a journey through the fundamentals of C programming!
 
 | Chapter    | Topic                           | Brief Description                               | Status    |
 |------------|---------------------------------|-------------------------------------------------|-----------|
-| Chapter 1  | Variables, Constants & Keywords | Introduction to variables, constants, keywords. | Completed |
-| Chapter 2  | Instructions & Operators        | Understanding instructions and operators in C.  | Completed |
-| Chapter 3  | Conditional Instructions        | Exploring conditional instructions in C.        | Completed |
-| Chapter 4  | Loop Control Instructions       | Learning loop control instructions in C.        | Completed |
-| Project 1  | Guess The Number                | Implementation of a Guess The Number project.   | Completed |
-| Chapter 5  | Functions & Recursions          | Introduction to functions and Recursions.       | Completed |
-| Chapter 6  | Pointers                        | Understanding pointers in C.                    | Completed |
-| Chapter 7  | Arrays                          | Exploring arrays in C.                          | Completed |
-| Chapter 8  | Strings                         | Working with strings in C.                      | Completed |
-| Chapter 9  | Structures                      | Introduction to structures in C.                | Completed |
+| Chapter 01 | Variables, Constants & Keywords | Introduction to variables, constants, keywords. | Completed |
+| Chapter 02 | Instructions & Operators        | Understanding instructions and operators in C.  | Completed |
+| Chapter 03 | Conditional Instructions        | Exploring conditional instructions in C.        | Completed |
+| Chapter 04 | Loop Control Instructions       | Learning loop control instructions in C.        | Completed |
+| Project 01 | Guess The Number                | Implementation of a Guess The Number project.   | Completed |
+| Chapter 05 | Functions & Recursions          | Introduction to functions and Recursions.       | Completed |
+| Chapter 06 | Pointers                        | Understanding pointers in C.                    | Completed |
+| Chapter 07 | Arrays                          | Exploring arrays in C.                          | Completed |
+| Chapter 08 | Strings                         | Working with strings in C.                      | Completed |
+| Chapter 09 | Structures                      | Introduction to structures in C.                | Completed |
 | Chapter 10 | File I/O                        | File Input/Output operations in C.              | Completed |
-| Project 2  | Snake, Water, Gun               | Implementation of Snake, Water, Gun game.       | Completed |
+| Project 02 | Snake, Water, Gun               | Implementation of Snake, Water, Gun game.       | Completed |
 | Chapter 11 | Dynamic Memory Allocation       | Understanding dynamic memory allocation in C.   | Completed |
 
 ## Getting Started
