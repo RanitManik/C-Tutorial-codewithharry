@@ -1,0 +1,1 @@
+The result will be of type `double` because one of the operands is a `double` (3.0). So, the expression will perform floating-point division and yield a `double` result.
